@@ -1,2 +1,2 @@
 # Fire_Detection_Using_Yolov5
-Fire Detection using yolov5 - It takes an image or video or web cam screen as input and detects fire in it by using Yolov5 Object localization Algorithm and Streamlit as Interface
+Fire Detection using YOLOv5 involves utilizing the YOLOv5 object localization algorithm to identify and locate the fire in various input sources such as images, videos, or webcam screens. The integration of Streamlit provides a user-friendly interface to interact with the system, allowing users to input images, videos, or live webcam feeds for real-time fire detection using YOLOv5's object localization capabilities. The results are then displayed through the Streamlit interface, providing a convenient and accessible way to detect fire in different visual inputs.
